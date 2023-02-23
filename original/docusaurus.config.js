@@ -98,7 +98,16 @@ const config = {
                         type: 'dropdown',
                         label: 'Program',
                         position: 'right',
-                        items: [],
+                        items: [
+                            {
+                                to: 'docs/program/javascript',
+                                label: 'JavaScript',
+                            },
+                            {
+                                to: 'docs/program/python',
+                                label: 'Python',
+                            },
+                        ],
                     },
                     {
                         type: 'dropdown',

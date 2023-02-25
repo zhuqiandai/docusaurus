@@ -4,10 +4,29 @@
         <title>My Site Blog</title>
         <link>https://zhuqiandai.github.io/docusaurus/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 11:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Breadth first search (Graph)]]></title>
+            <link>https://zhuqiandai.github.io/docusaurus/blog/Breadth-First-Search-Graph</link>
+            <guid>https://zhuqiandai.github.io/docusaurus/blog/Breadth-First-Search-Graph</guid>
+            <pubDate>Sat, 25 Feb 2023 11:17:18 GMT</pubDate>
+            <description><![CDATA[Breadth first search graph implementation]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="main">Main<a href="#main" class="hash-link" aria-label="Direct link to Main" title="Direct link to Main">​</a></h2><p>some</p>]]></content:encoded>
+            <category>algorithm</category>
+            <category>graph</category>
+        </item>
+        <item>
+            <title><![CDATA[Breadth first search (Graph)]]></title>
+            <link>https://zhuqiandai.github.io/docusaurus/blog/Depth-First-Search-Graph</link>
+            <guid>https://zhuqiandai.github.io/docusaurus/blog/Depth-First-Search-Graph</guid>
+            <pubDate>Sat, 25 Feb 2023 11:17:18 GMT</pubDate>
+            <description><![CDATA[Breadth first search graph implementation]]></description>
+            <category>algorithm</category>
+            <category>graph</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://zhuqiandai.github.io/docusaurus/blog/welcome</link>

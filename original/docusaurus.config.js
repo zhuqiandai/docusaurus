@@ -72,13 +72,6 @@ const config = {
                 },
                 items: [
                     { to: '/blog', label: 'Blog', position: 'left' },
-
-                    {
-                        type: 'dropdown',
-                        label: 'Book',
-                        position: 'right',
-                        items: [],
-                    },
                     {
                         type: 'dropdown',
                         label: 'CS',

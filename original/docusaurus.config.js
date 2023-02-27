@@ -73,29 +73,6 @@ const config = {
                 items: [
                     { to: '/blog', label: 'Blog', position: 'left' },
                     {
-                        type: 'dropdown',
-                        label: 'Math',
-                        position: 'right',
-                        items: [],
-                    },
-                    {
-                        type: 'dropdown',
-                        label: 'GIS',
-                        position: 'right',
-                        items: [],
-                    },
-                    {
-                        type: 'dropdown',
-                        label: 'Graphic',
-                        position: 'right',
-                        items: [
-                            {
-                                to: '/docs/graphic/shader',
-                                label: 'Shader',
-                            },
-                        ],
-                    },
-                    {
                         href: 'https://github.com/facebook/docusaurus',
                         label: 'GitHub',
                         position: 'right',

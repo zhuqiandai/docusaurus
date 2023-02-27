@@ -1,5 +1,5 @@
 ---
-title: Breadth first search (Graph)
+title: Breadth first search
 description: Breadth first search graph implementation
 authorsa: wangzhaoxu
 tags: [algorithm, graph]

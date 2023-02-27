@@ -1,5 +1,5 @@
 ---
-title: Breadth first search (Graph)
+title: Depth first search
 authors: [wangzhaoxu]
 tags: [base-algorithm, graph]
 ---

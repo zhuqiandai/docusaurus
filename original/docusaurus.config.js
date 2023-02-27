@@ -74,39 +74,26 @@ const config = {
                     { to: '/blog', label: 'Blog', position: 'left' },
                     {
                         type: 'dropdown',
-                        label: 'CS',
+                        label: 'Math',
                         position: 'right',
-                        items: [
-                            {
-                                to: 'docs/cs/browser',
-                                label: 'Browser',
-                            },
-                            {
-                                to: 'docs/cs/database',
-                                label: 'Database',
-                            },
-                        ],
-                    },
-                    {
-                        type: 'dropdown',
-                        label: 'Program',
-                        position: 'right',
-                        items: [
-                            {
-                                to: 'docs/program/javascript',
-                                label: 'JavaScript',
-                            },
-                            {
-                                to: 'docs/program/python',
-                                label: 'Python',
-                            },
-                        ],
+                        items: [],
                     },
                     {
                         type: 'dropdown',
                         label: 'GIS',
                         position: 'right',
                         items: [],
+                    },
+                    {
+                        type: 'dropdown',
+                        label: 'Graphic',
+                        position: 'right',
+                        items: [
+                            {
+                                to: '/docs/graphic/shader',
+                                label: 'Shader',
+                            },
+                        ],
                     },
                     {
                         href: 'https://github.com/facebook/docusaurus',
@@ -164,7 +151,17 @@ const config = {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
+
+            liveCodeBlock: {
+                /**
+                 * 实时效果显示的位置，在编辑器上方还是下方。
+                 * 可为："top" | "bottom"
+                 */
+                playgroundPosition: 'bottom',
+            },
         }),
+
+    plugins: ['@docusaurus/theme-live-codeblock'],
 }
 
 module.exports = config

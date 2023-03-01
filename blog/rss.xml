@@ -4,19 +4,18 @@
         <title>My Site Blog</title>
         <link>https://zhuqiandai.github.io/docusaurus/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Wed, 01 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 02:33:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[2023-03-01 English]]></title>
-            <link>https://zhuqiandai.github.io/docusaurus/blog/2023/03/01/ English</link>
-            <guid>https://zhuqiandai.github.io/docusaurus/blog/2023/03/01/ English</guid>
-            <pubDate>Wed, 01 Mar 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[<audio]]></description>
-            <content:encoded><![CDATA[<audio src="bbc/bbc_tae_spicy_food_download.mp3" preload="none" controls="" loop=""></audio>]]></content:encoded>
+            <title><![CDATA[En]]></title>
+            <link>https://zhuqiandai.github.io/docusaurus/blog/20230301</link>
+            <guid>https://zhuqiandai.github.io/docusaurus/blog/20230301</guid>
+            <pubDate>Wed, 01 Mar 2023 02:33:03 GMT</pubDate>
+            <description><![CDATA[BBC]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bbc">BBC<a href="#bbc" class="hash-link" aria-label="Direct link to BBC" title="Direct link to BBC">​</a></h2><p><a target="_blank" href="/docusaurus/assets/files/bbc_tae_spicy_food_download-6bf91a56eb438c64d8db95f797e961fb.mp3">bbc_tae_spicy_food_download.mp3</a></p><p><a target="_blank" href="/docusaurus/assets/files/bbc_tae_spicy_food-d4ed49359b09a8039014472e2a58d677.pdf">bbc_tae_spicy_food.pdf</a></p>]]></content:encoded>
             <category>daily-english</category>
-            <category>bbc</category>
         </item>
         <item>
             <title><![CDATA[Graph represetation]]></title>

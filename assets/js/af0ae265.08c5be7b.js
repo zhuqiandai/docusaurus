@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoriginal=self.webpackChunkoriginal||[]).push([[6803],{38102:a=>{a.exports=JSON.parse('{"label":"base-algorithm","permalink":"/docusaurus/blog/tags/base-algorithm","allTagsPath":"/docusaurus/blog/tags","count":1}')}}]);

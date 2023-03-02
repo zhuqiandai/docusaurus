@@ -1,0 +1,42 @@
+---
+title: polar coordinates
+authors: wangzhaoxu
+tags: [shader, shader-base]
+---
+
+## Map original point to center
+
+```c
+uniform sampler2D tex;
+
+vec2 st = uv
+uv *= 2.;
+uv -= 1.;
+
+float radius = length(uv);
+float theta = atan(uv.y, uv.x);
+
+/**
+ *  pass polar coordinates to texture
+ */
+
+vec2 polar = vec2(radius * cos(theta), radius * sin(theta));
+polar = fract(polar);
+
+gl_FragColor = texture(tex, polar);
+```
+
+![img alt](/shader/map-coordinates.svg)
+
+## Radius and Theta
+
+:::tip how to use x&y to express radius&theta
+
+```c
+
+radius = length(vec2(x, y))
+theta = atan(y, x)
+
+```
+
+:::

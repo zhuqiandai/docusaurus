@@ -1,7 +1,7 @@
 ---
-title: polar coordinates
+title: Polar coordinates
 authors: wangzhaoxu
-tags: [shader, shader-base]
+tags: [shader]
 ---
 
 ## Map original point to center
@@ -18,6 +18,11 @@ float theta = atan(uv.y, uv.x);
 
 /**
  *  pass polar coordinates to texture
+ *  1. x = cos(theta) * radius
+ *  2. y = sin(theta) * radius
+ *
+ *  这里再次转换成用 x,y 笛卡尔坐标系来表示
+ *  但是可以控制的是，在转换过程中的 radius 和 theta 
  */
 
 vec2 polar = vec2(radius * cos(theta), radius * sin(theta));
@@ -27,16 +32,3 @@ gl_FragColor = texture(tex, polar);
 ```
 
 ![img alt](/shader/map-coordinates.svg)
-
-## Radius and Theta
-
-:::tip how to use x&y to express radius&theta
-
-```c
-
-radius = length(vec2(x, y))
-theta = atan(y, x)
-
-```
-
-:::

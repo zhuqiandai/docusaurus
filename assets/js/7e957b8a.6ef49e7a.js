@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoriginal=self.webpackChunkoriginal||[]).push([[6016],{16221:a=>{a.exports=JSON.parse('{"label":"shader","permalink":"/docusaurus/blog/tags/shader","allTagsPath":"/docusaurus/blog/tags","count":1}')}}]);

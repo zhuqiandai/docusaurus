@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkoriginal=self.webpackChunkoriginal||[]).push([[7248],{3177:o=>{o.exports=JSON.parse('{"permalink":"/docusaurus/blog/tags/algorithm","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

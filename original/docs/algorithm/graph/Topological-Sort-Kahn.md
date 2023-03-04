@@ -1,10 +1,10 @@
 ---
-title: Togological Sort Kahn
+sidebar_position: 3
 description: This is my first post on Docusaurus 2.
-authors: wangzhaoxu
 tags: [algorithm, graph]
-hide_table_of_contents: false
 ---
+
+# Togological Sort Kahn
 
 :::tip 概念
 

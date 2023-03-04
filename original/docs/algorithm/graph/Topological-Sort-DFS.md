@@ -1,11 +1,10 @@
 ---
-title: Togological Sort DFS
+sidebar_position: 4
 description: This is my first post on Docusaurus 2.
-authors: wangzhaoxu
 tags: [algorithm, graph]
-hide_table_of_contents: false
 ---
 
+# Togological Sort DFS
 
 ## DFS 算法
 

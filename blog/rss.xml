@@ -4,17 +4,32 @@
         <title>My Site Blog</title>
         <link>https://zhuqiandai.github.io/docusaurus/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Fri, 03 Mar 2023 13:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 05:44:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[algorithm/graph/Dijkstra]]></title>
+            <link>https://zhuqiandai.github.io/docusaurus/blog/algorithm/graph/Dijkstra</link>
+            <guid>https://zhuqiandai.github.io/docusaurus/blog/algorithm/graph/Dijkstra</guid>
+            <pubDate>Sat, 04 Mar 2023 05:44:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[2023.03.04]]></title>
+            <link>https://zhuqiandai.github.io/docusaurus/blog/daily-english/20230304</link>
+            <guid>https://zhuqiandai.github.io/docusaurus/blog/daily-english/20230304</guid>
+            <pubDate>Sat, 04 Mar 2023 01:31:05 GMT</pubDate>
+            <description><![CDATA[20230303]]></description>
+            <content:encoded><![CDATA[<p><a href="/docusaurus/blog/daily-english/20230303">20230303</a></p><p><a href="/docusaurus/blog/daily-english/20230302">20230302</a></p>]]></content:encoded>
+            <category>daily-english</category>
+        </item>
         <item>
             <title><![CDATA[2023.03.03]]></title>
             <link>https://zhuqiandai.github.io/docusaurus/blog/daily-english/20230303</link>
             <guid>https://zhuqiandai.github.io/docusaurus/blog/daily-english/20230303</guid>
             <pubDate>Fri, 03 Mar 2023 13:35:22 GMT</pubDate>
             <description><![CDATA[BBC howcoldaffects_body]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bbc-how_cold_affects_body">BBC how_cold_affects_body<a href="#bbc-how_cold_affects_body" class="hash-link" aria-label="Direct link to BBC how_cold_affects_body" title="Direct link to BBC how_cold_affects_body">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="audio"><a target="_blank" href="/docusaurus/assets/files/bbc_tae_how_cold_affects_body_download-7b2c9db92da6669e89ced106da4df079.mp3">audio</a><a href="#audio" class="hash-link" aria-label="Direct link to audio" title="Direct link to audio">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="pdf"><a target="_blank" href="/docusaurus/assets/files/bbc_tae_how_cold_affects_body-d99dc59989a6e77054fcd2682bc5a3ed.pdf">pdf</a><a href="#pdf" class="hash-link" aria-label="Direct link to pdf" title="Direct link to pdf">​</a></h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>polar</td><td>polar regions / polar coordinates</td></tr><tr><td>depths of winter</td><td>in the depths of winter</td></tr><tr><td>cold storage</td><td>in cold storage facilities</td></tr><tr><td>thermal</td><td>The thermal carafe keeps beverages warm or cold for longer than a glass model</td></tr><tr><td></td><td>layered in thermal clothing to help them deal with freezing temperatures</td></tr><tr><td>arctic conditions</td><td>严寒情况 arctic 北极</td></tr><tr><td>mammal</td><td>as mammals</td></tr><tr><td>hypothermia 失温</td><td></td></tr><tr><td>symptom 症状</td><td>with symptoms such as shivering</td></tr><tr><td>consciousness</td><td>He hope that he can raise public consciousness of the disease</td></tr><tr><td></td><td>it can lead to loss of consciousness</td></tr><tr><td>regulate</td><td>Our bodies can regulate their internal temperature</td></tr><tr><td>biting cold</td><td>Ten degrees Celsius is hardly biting cold</td></tr><tr><td>consequence</td><td>He was given a traffic ticket as a consequence of running the red light</td></tr><tr><td>reliant 依赖</td><td>be reliant on doing</td></tr><tr><td>carbohydrate 碳水化合物</td><td></td></tr><tr><td>gradually 逐渐</td><td></td></tr><tr><td>a lack of 缺乏</td><td></td></tr></tbody></table>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bbc-how_cold_affects_body">BBC how_cold_affects_body<a href="#bbc-how_cold_affects_body" class="hash-link" aria-label="Direct link to BBC how_cold_affects_body" title="Direct link to BBC how_cold_affects_body">​</a></h2><h3 class="anchor anchorWithStickyNavbar_LWe7" id="audio"><a target="_blank" href="/docusaurus/assets/files/bbc_tae_how_cold_affects_body_download-7b2c9db92da6669e89ced106da4df079.mp3">audio</a><a href="#audio" class="hash-link" aria-label="Direct link to audio" title="Direct link to audio">​</a></h3><h3 class="anchor anchorWithStickyNavbar_LWe7" id="pdf"><a target="_blank" href="/docusaurus/assets/files/bbc_tae_how_cold_affects_body-d99dc59989a6e77054fcd2682bc5a3ed.pdf">pdf</a><a href="#pdf" class="hash-link" aria-label="Direct link to pdf" title="Direct link to pdf">​</a></h3><table><thead><tr><th></th><th></th></tr></thead><tbody><tr><td>polar</td><td>polar regions / polar coordinates</td></tr><tr><td>depths of winter</td><td>in the depths of winter</td></tr><tr><td>cold storage</td><td>in cold storage facilities</td></tr><tr><td>thermal</td><td>The thermal carafe keeps beverages warm or cold for longer than a glass model</td></tr><tr><td></td><td>layered in thermal clothing to help them deal with freezing temperatures</td></tr><tr><td>arctic conditions</td><td>严寒情况 arctic 北极</td></tr><tr><td>mammal</td><td>as mammals</td></tr><tr><td>hypothermia 失温</td><td></td></tr><tr><td>symptom 症状</td><td>with symptoms such as shivering</td></tr><tr><td>consciousness</td><td>He hope that he can raise public consciousness of the disease</td></tr><tr><td></td><td>it can lead to loss of consciousness</td></tr><tr><td>regulate</td><td>Our bodies can regulate their internal temperature</td></tr><tr><td>biting cold</td><td>Ten degrees Celsius is hardly biting cold</td></tr><tr><td>consequence</td><td>He was given a traffic ticket as a consequence of running the red light</td></tr><tr><td>reliant 依赖</td><td>be reliant on doing</td></tr><tr><td>carbohydrate 碳水化合物</td><td></td></tr><tr><td>gradually 逐渐</td><td>The snake moved gradually toward its victim</td></tr><tr><td>a lack of 缺乏</td><td></td></tr><tr><td>endure</td><td>The new secretary had to endure a lot of unprofessional remarks</td></tr><tr><td>stroke 中风</td><td></td></tr><tr><td>insulation</td><td>Insulation is the process of keeping heat, sound, or electricity from spreading.</td></tr><tr><td>moderate</td><td></td></tr><tr><td></td><td></td></tr></tbody></table>]]></content:encoded>
             <category>daily-english</category>
         </item>
         <item>

@@ -1,7 +1,7 @@
 ---
 title: Depth first search
 authors: [wangzhaoxu]
-tags: [base-algorithm, graph]
+tags: [graph]
 ---
 
 This is the summary of a very long blog post,

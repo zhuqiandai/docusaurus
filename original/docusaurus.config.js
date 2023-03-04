@@ -72,6 +72,10 @@ const config = {
                 },
                 items: [
                     { to: '/blog', label: 'Blog', position: 'left' },
+
+                    { to: '/docs/intro', label: 'Docs', position: 'right' },
+                    { to: '/docs/tags', label: 'Tags', position: 'right' },
+
                     {
                         href: 'https://github.com/facebook/docusaurus',
                         label: 'GitHub',
@@ -135,6 +139,15 @@ const config = {
                  * 可为："top" | "bottom"
                  */
                 playgroundPosition: 'bottom',
+            },
+
+            algolia: {
+                appId: 'QZXZMEV0XE',
+                apiKey: 'b5ee15dd51443f95916325798322e7fc',
+                indexName: 'wangzhaoxu',
+
+                contextualSearch: true,
+                searchPagePath: 'search',
             },
         }),
 
